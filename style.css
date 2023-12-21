@@ -1,0 +1,19 @@
+* {
+    background-color:black;
+    color:azure;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.groot {
+    color:forestgreen;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 3px;
+    font-size: 24pt;
+}
+
+.drew {
+    color: blue;
+    font-family:'Century Gothic';
+    font-size: 16pt;
+}
