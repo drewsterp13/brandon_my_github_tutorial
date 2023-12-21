@@ -1,11 +1,9 @@
 # brandon_my_github_tutorial
-## This respository is forked from brandon-apol/my_github_tutorial
-ORIGINAL SOURCE:
-https://github.com/brandon-apol/my_github_tutorial
+## added-style branch
 
-index.html is the same as the original
+This is the branch version of the project where I added some flavor to 
+the webpage :)
 
-about.html is the same exept one little detail:
-```<h2>Hello groot, I am Drew</h2>```
+ONLY the about.html is updated.
 
-I hope that you enjoy my tiny little modification, also there is a new branch called "added-styles" that adds a little style...
+I hope that you enjoy the colors and the style :)
